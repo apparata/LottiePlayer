@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUIToolbox",
+        "repositoryURL": "https://github.com/apparata/SwiftUIToolbox.git",
+        "state": {
+          "branch": null,
+          "revision": "3be7e61fc816e81d346e24ed1aaf5b1de8550a20",
+          "version": "0.1.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
